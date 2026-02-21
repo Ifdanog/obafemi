@@ -226,9 +226,9 @@ const Hero = () => {
         <RevealBlock delay={120}>
           <div className="relative mb-10 rounded-card-lg overflow-hidden border border-white/[0.06] shadow-card">
             <img
-              src="/DSC_8458.jpg"
-              alt="Oniosun Obafemi"
-              className="w-full max-h-[500px] object-cover object-[50%_20%]"
+              src="/Headshot4.jpeg"
+              alt="Obafemi Oniosun"
+              className="w-full max-h-[600px] object-cover object-[50%_10%]"
               loading="eager"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-ink/50 via-transparent to-transparent" />

@@ -63,7 +63,7 @@ const Nav = () => {
             onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
             className="font-display text-2xl tracking-widest text-pearl hover:text-gold transition-colors duration-300"
           >
-            Oniosun Obafemi
+            Obafemi Oniosun
           </button>
 
           {/* Desktop links */}
