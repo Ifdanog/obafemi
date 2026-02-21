@@ -131,7 +131,7 @@ const Hero = () => {
           ref={heroBgRef}
           className="absolute inset-0 scale-110 will-change-transform"
           style={{
-            backgroundImage: "url('/zas.jpg')",
+            backgroundImage: "url('/DSC_8458.jpg')",
             backgroundSize: "cover",
             backgroundPosition: "center 10%",
           }}
@@ -172,9 +172,9 @@ const Hero = () => {
           {/* Name */}
           <div style={enterStyle(250)}>
             <h1 className="font-display text-display-hero text-gradient leading-[0.88] mb-3">
-              Oniosun
-              <br />
               Obafemi
+              <br />
+              Oniosun
             </h1>
           </div>
 
@@ -228,7 +228,7 @@ const Hero = () => {
             <img
               src="/Headshot4.jpeg"
               alt="Obafemi Oniosun"
-              className="w-full max-h-[600px] object-cover object-[50%_10%]"
+              className="w-full max-h-[500px] object-cover object-[50%_20%]"
               loading="eager"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-ink/50 via-transparent to-transparent" />
