@@ -7,7 +7,7 @@
 ## ✦ Live Preview
 
 <!-- Replace with your deployed URL -->
-🔗 [obafemi.vercel.app](https://obafemi.vercel.app)
+🔗 [obafemi-oniosun.netlify.app](https://obafemi-oniosun.netlify.app)
 
 ---
 
